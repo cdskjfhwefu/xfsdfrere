@@ -8,7 +8,7 @@
         "decryption": "none",
         "clients": [
           {
-            "id": "$AUUID"
+            "id": "c908c455-7a94-4e33-9207-cae18a337703"
           }
         ]
       },
@@ -16,7 +16,7 @@
         "network": "ws",
 	    "security": "none",
         "wsSettings": {
-        "path": "/0139227f-486c-4deb-8768-37010b3003eb-vless"
+        "path": "/c908c455-7a94-4e33-9207-cae18a337703-vless"
         }
       }
     },
@@ -27,7 +27,7 @@
       "settings": {
         "clients": [
           {
-            "id": "$AUUID",
+            "id": "c908c455-7a94-4e33-9207-cae18a337703",
 			"alterId": 0
           }
         ]
@@ -35,7 +35,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/0139227f-486c-4deb-8768-37010b3003eb-vmess"
+          "path": "/c908c455-7a94-4e33-9207-cae18a337703-vmess"
         }
       }
     }
